@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 - [Products](./products.md)
 - [Skills](./skills.md)
+- [Interesting](./interestings.md)
