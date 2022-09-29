@@ -41,3 +41,13 @@
     - デザイン等は完成していませんが，機能的には完成までこぎつけています．
     - MUI，react-hook-formを利用しました．
   - 基本的なhooksは利用できますが，利用したことのない部分もあります．
+
+## DevOps
+
+- Docker/docker-compose
+  - 使わないで開発することはないです．
+  - Dockerイメージの軽量化(Dockerfileの改善)に取り組んだことがあります．
+  - 本番環境にも使っています．
+- Github/Git
+- Github Actions
+  - プロジェクトをCI/CDに載せたことがあります．
